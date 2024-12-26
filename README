@@ -1,0 +1,11 @@
+This is the README file for Yase2D.
+
+Installation
+------------
+
+At the moment the prerequisites are:
+        - SDL
+        - SDL_image
+        - SDL_mixer
+
+For instructions read the INSTALL file.
